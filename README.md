@@ -1,6 +1,6 @@
 # Hi, I'm Andreas 👋
 
-**Software Developer & CS Graduate** based in Larnaca, Cyprus 🇨🇾
+**Software / Games Developer & CS Graduate** based in Larnaca, Cyprus 🇨🇾
 
 I build things across the stack — from full-stack PHP web apps and relational databases to real-time C++ game systems and AI-driven interactive experiences. Currently finishing my BSc in Computer Science (Game Development) at UCLan Cyprus and actively looking for junior developer and QA roles.
 
@@ -10,11 +10,12 @@ I build things across the stack — from full-stack PHP web apps and relational 
 
 **Languages**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -70,9 +71,11 @@ I build things across the stack — from full-stack PHP web apps and relational 
 ## 📜 Certifications
 
 - 🤖 **Building with the Claude API** — Anthropic
-- 🌐 **CCNAv7** — Switching, Routing & Wireless Essentials
-- 🌐 **CCNA** — Introduction to Networks
-- 💻 **IGCSE** in Computer Science
+- 💼 **Software Engineering Job Simulation** — JPMorgan Chase x Forage
+- 🌐 **CCNAv7: Switching, Routing & Wireless Essentials** — Cisco Networking Academy
+- 🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy
+- 🎓 **Cambridge IGCSE in Information and Communication Technology** — Cambridge International Education
+- 💻 **ECDL Certificate** (PowerPoint, Excel, Word, Online Essentials, Databases, Online Collaboration & Computer Essentials) — CEPIS
 
 ---
 
